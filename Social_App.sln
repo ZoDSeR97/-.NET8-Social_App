@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Social_App.Server", "Social_App.Server\Social_App.Server.csproj", "{A1A13225-6CB1-4CB7-A886-8F132E7EF69F}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "social_app.client", "social_app.client\social_app.client.esproj", "{A70DD71F-D5F4-4209-9BD5-15AE316D18C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C1F1FDB-178D-4C29-98B3-7E057D83D405}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1A13225-6CB1-4CB7-A886-8F132E7EF69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A13225-6CB1-4CB7-A886-8F132E7EF69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A13225-6CB1-4CB7-A886-8F132E7EF69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A13225-6CB1-4CB7-A886-8F132E7EF69F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70DD71F-D5F4-4209-9BD5-15AE316D18C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70DD71F-D5F4-4209-9BD5-15AE316D18C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70DD71F-D5F4-4209-9BD5-15AE316D18C6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A70DD71F-D5F4-4209-9BD5-15AE316D18C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70DD71F-D5F4-4209-9BD5-15AE316D18C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70DD71F-D5F4-4209-9BD5-15AE316D18C6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5981521E-B6A8-4FAE-B5B1-43608AD87E5E}
+	EndGlobalSection
+EndGlobal
